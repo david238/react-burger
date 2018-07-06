@@ -30,4 +30,13 @@
     .DesktopOnly {
         display: none;
     }
+
+    .ToggleMenu {
+        height: 80%;
+        display: inline-flex;
+    }
+
+    .Logo{
+        display: none;
+    }
 }
